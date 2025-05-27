@@ -1,16 +1,12 @@
-## Hi there 👋
+# 关于我的
+**大家好！** 我是离漓囄，一个有想法但没能力的大学生。我想要做一个超好玩的游戏！
 
-<!--
-**KomeijiJun/KomeijiJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 我目前正在学习：C#，unity3D，板绘等好多做游戏需要的技术栈！<br>
+  快要有个小demo了！等我做完上传！<br><br>
+- 最近我正在找大学生实习工作，想要在实习中学到好多东西！<br>
+  我目前会使用的语言有：C，C++，python，java！<br>
+  还精通MySQL，深度学习框架tensorflow等！
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 
+- 联系我可以发送邮件📫到：2326715368@qq.com 
+--!>
